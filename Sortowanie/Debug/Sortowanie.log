@@ -1,0 +1,18 @@
+﻿Build started 08.11.2016 18:55:29.
+     1>Project "C:\Users\Lenovo_500_i7\Desktop\Папка есть же бля\ASD\Proekt Sortowanie\Main\Sortowanie\Sortowanie\Sortowanie.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Algorytmy.c Main.c
+         Main.c
+     1>c:\users\lenovo_500_i7\desktop\папка есть же бля\asd\proekt sortowanie\main\sortowanie\sortowanie\main.c(15): warning C4244: 'function' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Algorytmy.c
+     1>c:\users\lenovo_500_i7\desktop\папка есть же бля\asd\proekt sortowanie\main\sortowanie\sortowanie\algorytmy.c(46): warning C4101: 'k' : unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo_500_i7\Desktop\Папка есть же бля\ASD\Proekt Sortowanie\Main\Sortowanie\Debug\Sortowanie.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo_500_i7\Desktop\Папка есть же бля\ASD\Proekt Sortowanie\Main\Sortowanie\Debug\Sortowanie.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo_500_i7\Desktop\Папка есть же бля\ASD\Proekt Sortowanie\Main\Sortowanie\Debug\Sortowanie.lib" /MACHINE:X86 Debug\Algorytmy.obj
+         Debug\Main.obj
+         Sortowanie.vcxproj -> C:\Users\Lenovo_500_i7\Desktop\Папка есть же бля\ASD\Proekt Sortowanie\Main\Sortowanie\Debug\Sortowanie.exe
+     1>Done Building Project "C:\Users\Lenovo_500_i7\Desktop\Папка есть же бля\ASD\Proekt Sortowanie\Main\Sortowanie\Sortowanie\Sortowanie.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
